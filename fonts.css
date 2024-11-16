@@ -1,0 +1,47 @@
+/* @font-face {
+    font-family: "Vazir";
+    src: url(./fonts/Vazir.ttf) format("truetype"),
+    url(./fonts/Vazir.woff) format("woff"),
+    url(./fonts/Vazir.woff2) format("woff2");
+    font-style: normal;
+    font-weight: 100;
+}
+@font-face {
+    font-family: "Vazir";
+    src: url(./fonts/Vazir-Bold.ttf) format("truetype"),
+    url(./fonts/Vazir-Bold.woff) format("woff"),
+    url(./fonts/Vazir-Bold.woff2) format("woff2");
+    font-style: normal;
+    font-weight: 400;
+}
+@font-face {
+    font-family: "Vazir";
+    src: url(./fonts/Vazir-Medium.ttf) format("truetype"),
+    url(./fonts/Vazir-Medium.woff) format("woff"),
+    url(./fonts/Vazir-Medium.woff2) format("woff2");
+    font-style: normal;
+    font-weight: 100;
+}
+@font-face {
+    font-family: "Vazir";
+    src: url(./fonts/Vazir-Light.ttf) format("truetype"),
+    url(./fonts/Vazir-Light.woff) format("woff"),
+    url(./fonts/Vazir-Light.woff2) format("woff2");
+    font-style: normal;
+    font-weight: 100;
+}
+@font-face {
+    font-family: "Vazir";
+    src: url(./fonts/Vazir-Thin.ttf) format("truetype"),
+    url(./fonts/Vazir-Thin.woff) format("woff"),
+    url(./fonts/Vazir-Thin.woff2) format("woff2");
+    font-style: normal;
+    font-weight: 100;
+} */
+
+@font-face {
+    font-family: "Iranian-Sans";
+    src: url(./fonts/Iranian\ Sans.ttf) format("truetype");
+    font-style: normal;
+    font-weight: 500;
+} 

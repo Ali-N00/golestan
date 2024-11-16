@@ -1,0 +1,16 @@
+@import  "./Main\ page.css";
+@import "./fonts.css";
+body{
+    margin: 0;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    width: 100%;
+    font-family: "Iranian-Sans";
+}
+button{
+    font-family: "Iranian-Sans";
+}
+nav{
+    font-family: "Iranian-sans";
+}
